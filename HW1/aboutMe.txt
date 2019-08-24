@@ -1,0 +1,12 @@
+Your name: Akshat Bansal
+Your student ID: 012117274	
+Your major: Computer Science
+Your preferred email address: akshat2610@gmail.com
+Check one: [*] Undergraduate, [ ] Graduate, [ ] Open university 
+Repeating the class? [ ] Yes, [*] No
+Place and semester where you took a programming course in Java: SJSU, Spring 2018
+Course number and grade received: CS 46A - (A)
+Place and semester where you took a course in data structures: SJSU, Spring 2019
+Course number and grade received: CS 146 - (B-)(Professor David Scott Taylor)
+Time it took you to answer the two questions below: 30 minutes
+Did you ask anyone for help? [ ] Yes, [*] No
